@@ -10,3 +10,10 @@ sur la rasb. :
 ros2 launch launch/launch_calibration_publisher.py
 
 
+
+note : les données sont automatiquement enregistré dans le dossier "install" -> s'il n'existe pas, ne fonctionne pas
+---> install/imus/share/imus/cfg
+fichier "magn_ellipsoid_center.txt" et "magn_ellipsoid_transform.txt"
+
+
+
