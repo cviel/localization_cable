@@ -1,0 +1,18 @@
+
+
+Launch :
+
+
+launch_calibration_publisher.py
+launch_calibration_visualizer.py
+---> pour la calibration de l'IMU
+
+
+launch/launch_computer.py
+---> a executer depuis le pc
+
+launch/launch_ROV.py
+---> a executer sur la rasp. du boitier
+
+
+

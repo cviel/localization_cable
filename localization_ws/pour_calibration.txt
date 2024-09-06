@@ -1,0 +1,12 @@
+
+Pour calibration :
+-----------------------
+
+pour visualiser :
+sur pc, :
+ros2 launch launch/launch_calibration_visualizer.py
+
+sur la rasb. : 
+ros2 launch launch/launch_calibration_publisher.py
+
+
